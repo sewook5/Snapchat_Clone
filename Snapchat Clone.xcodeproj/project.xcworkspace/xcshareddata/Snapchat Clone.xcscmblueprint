@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8831A36D8CB235D3868474FE05F2D1F7823A763A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8831A36D8CB235D3868474FE05F2D1F7823A763A" : 9223372036854775807,
+    "8CB130CB9D89F581D9F2C63768820FE7EED04477" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9D46F36B-C302-4BBE-BD21-5B99570FC0CE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8831A36D8CB235D3868474FE05F2D1F7823A763A" : "Snapchat%20Clone\/",
+    "8CB130CB9D89F581D9F2C63768820FE7EED04477" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Snapchat Clone",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Snapchat Clone.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:sewook5\/Snapchat_Clone.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8831A36D8CB235D3868474FE05F2D1F7823A763A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sewook5\/swift-app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8CB130CB9D89F581D9F2C63768820FE7EED04477"
+    }
+  ]
+}
